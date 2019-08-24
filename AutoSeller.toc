@@ -1,0 +1,7 @@
+## Interface: 80200
+## Title: AutoSeller
+## Author: Sam Caulfield <sam@samcaulfield.com>
+## Notes: Automatically sell items to merchants.
+## Version 1.0
+AutoSeller.lua
+
